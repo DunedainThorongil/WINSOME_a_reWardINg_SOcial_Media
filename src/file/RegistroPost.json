@@ -1,0 +1,46 @@
+{
+  "1": {
+    "autore": {
+      "nome": "zelda",
+      "password": "7",
+      "tags": [
+        "tag1"
+      ],
+      "listaTransazioni": [
+        "$$$ Data: 2022.03.27.17:05:22 Incremento guadagno: 1.86 $$$"
+      ],
+      "ricompensaAutore": 1.8614363652892694,
+      "ricomensaCuratore": 0.0,
+      "guadagnoTot": 1.8614363652892694,
+      "incrementoGuadagno": 1.8614363652892694,
+      "stato": false
+    },
+    "idPost": 1,
+    "titolo": "prova calcolo",
+    "contenuto": "calcolo guadagno",
+    "votiPositivi": 3,
+    "votiNegativi": 1,
+    "nValutazioni": 0,
+    "listaCommenti": {
+      "aril": [
+        "primo commento"
+      ],
+      "dazel": [
+        "secondo commento",
+        "terzo commento",
+        "quarto commento"
+      ],
+      "ganondorf": [
+        "quinto commento"
+      ]
+    },
+    "listaLike": [],
+    "tabellaCommentiUtenti": {},
+    "listaUtentiCommenti": [],
+    "utentiVoti": [
+      "aril",
+      "link",
+      "dazel"
+    ]
+  }
+}

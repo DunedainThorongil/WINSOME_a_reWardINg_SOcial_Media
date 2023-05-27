@@ -1,0 +1,11 @@
+# Tutte le righe vuote o che iniziano con '#' verranno ignorate.
+
+#           Porta TCP del server
+TCPPORT=6666
+
+#           Porta del registry RMI
+REGPORT=7777
+
+#           RMI_CALLBACK_PORT
+RMICALLBACKPORT=5678
+

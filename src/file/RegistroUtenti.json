@@ -1,0 +1,92 @@
+{
+  "link": {
+    "nome": "link",
+    "password": "7",
+    "tags": [
+      "tag1"
+    ],
+    "listaTransazioni": [
+      "$$$ Data: 2022.03.27.17:05:22 Incremento guadagno: 0.27 $$$"
+    ],
+    "ricompensaAutore": 0.0,
+    "ricomensaCuratore": 0.26591948075560995,
+    "guadagnoTot": 0.0,
+    "incrementoGuadagno": 0.26591948075560995,
+    "stato": false
+  },
+  "dazel": {
+    "nome": "dazel",
+    "password": "7",
+    "tags": [
+      "tag1"
+    ],
+    "listaTransazioni": [
+      "$$$ Data: 2022.03.27.17:05:22 Incremento guadagno: 0.27 $$$"
+    ],
+    "ricompensaAutore": 0.0,
+    "ricomensaCuratore": 0.26591948075560995,
+    "guadagnoTot": 0.0,
+    "incrementoGuadagno": 0.26591948075560995,
+    "stato": false
+  },
+  "drakar": {
+    "nome": "drakar",
+    "password": "7",
+    "tags": [
+      "tag1"
+    ],
+    "listaTransazioni": [
+      "$$$ Data: 2022.03.27.17:05:22 Incremento guadagno: 0.0 $$$"
+    ],
+    "ricompensaAutore": 0.0,
+    "ricomensaCuratore": 0.0,
+    "guadagnoTot": 0.0,
+    "incrementoGuadagno": 0.0,
+    "stato": false
+  },
+  "zelda": {
+    "nome": "zelda",
+    "password": "7",
+    "tags": [
+      "tag1"
+    ],
+    "listaTransazioni": [
+      "$$$ Data: 2022.03.27.17:05:22 Incremento guadagno: 1.86 $$$"
+    ],
+    "ricompensaAutore": 1.8614363652892694,
+    "ricomensaCuratore": 0.0,
+    "guadagnoTot": 1.8614363652892694,
+    "incrementoGuadagno": 1.8614363652892694,
+    "stato": false
+  },
+  "aril": {
+    "nome": "aril",
+    "password": "7",
+    "tags": [
+      "tag1"
+    ],
+    "listaTransazioni": [
+      "$$$ Data: 2022.03.27.17:05:22 Incremento guadagno: 0.27 $$$"
+    ],
+    "ricompensaAutore": 0.0,
+    "ricomensaCuratore": 0.26591948075560995,
+    "guadagnoTot": 0.0,
+    "incrementoGuadagno": 0.26591948075560995,
+    "stato": false
+  },
+  "ganondorf": {
+    "nome": "ganondorf",
+    "password": "7",
+    "tags": [
+      "tag1"
+    ],
+    "listaTransazioni": [
+      "$$$ Data: 2022.03.27.17:05:22 Incremento guadagno: 0.0 $$$"
+    ],
+    "ricompensaAutore": 0.0,
+    "ricomensaCuratore": 0.0,
+    "guadagnoTot": 0.0,
+    "incrementoGuadagno": 0.0,
+    "stato": false
+  }
+}

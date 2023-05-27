@@ -1,0 +1,23 @@
+# Tutte le righe vuote o che iniziano con '#' verranno ignorate.
+
+#           Porta TCP del server
+TCPPORT=6666
+
+#           Indirizzo di multicast
+MULTICAST=239.255.33.32
+
+#           Porta di multicast
+MCASTPORT=44444
+
+#           Porta del registry RMI
+REGPORT=7777
+
+#           Timeout del calcolo delle ricompense circa 4 minuti
+ATTESA=250000
+
+#           RMI_CALLBACK_PORT
+RMICALLBACKPORT=5678
+
+#           Percentuale ricompensa autore
+PERCENTUALEAUTORE=70
+
